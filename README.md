@@ -46,20 +46,20 @@ IBM System Z (z/os) installation, operations, and planning skills
    Knowledge of ISV product installations, customization and license management
    Base knowledge of zArchitecture (DASD, LPAR, channels, tapes, IPL process etc.)
    Linux for IBM System 
-
-    Analyze, evaluate, troubleshoot, test, document, and implement system software upgrades, PTF’s and new software packages       per client specifications
-    Provide timely problem diagnosis of application system dumps to identify root cause and recommend appropriate solutions
-    Communicate with application developers to convey the root cause and assist in problem resolution
-    Work with Users, Clients, and Business Partners to provide support or to resolve issues
-    Customization, configuration, maintenance and problem resolution for z/OS and vendor configurations
+     
+   Analyze, evaluate, troubleshoot, test, document, and implement system software upgrades, PTF’s and new software packages       per client specifications
+   Provide timely problem diagnosis of application system dumps to identify root cause and recommend appropriate solutions
+   Communicate with application developers to convey the root cause and assist in problem resolution
+   Work with Users, Clients, and Business Partners to provide support or to resolve issues
+   Customization, configuration, maintenance and problem resolution for z/OS and vendor configurations
     
-    Experience of z/OS Performance Analysis using various tools such as IBM's RMF (Resource Management Facility), SMF and          subsystem analysis tools
+   Experience of z/OS Performance Analysis using various tools such as IBM's RMF (Resource Management Facility), SMF and          subsystem analysis tools
    
-    Z/OS mainframe systems programmer experience, with working knowledge of z/OS internals and subsystems
-    Experience in using SMP/E for mainframe software installation
+   Z/OS mainframe systems programmer experience, with working knowledge of z/OS internals and subsystems
+   Experience in using SMP/E for mainframe software installation
    
-    Understanding of the compute cluster hardware with the ability to coordinate the repair of hardware failures
-    Work with various groups in evaluating and recommending hardware and software products operating system products
+   Understanding of the compute cluster hardware with the ability to coordinate the repair of hardware failures
+   Work with various groups in evaluating and recommending hardware and software products operating system products
 <!---
 rfhutch/rfhutch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
